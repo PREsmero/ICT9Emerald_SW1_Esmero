@@ -1,0 +1,43 @@
+<style>
+body
+
+{
+	margin: 20px;
+
+	}
+
+
+#menu
+{
+	background-color: sandybrown;
+	
+	
+	text-align:center;
+	width: 40%;
+	margin-right:auto;
+	margin-left: auto;
+	margin-top: 200px;
+	marin-bottom: 300px;
+	font-weight: bolder;
+	font-family: Arial, sans-serif;
+	font-size: 200%;
+	
+	}
+
+	#sandwich
+
+	{
+		font-family: Arial, sans-serif;
+		font-size: 100%;
+		
+	}
+
+	th { 
+	color: ghostwhite; }
+
+
+	 
+
+
+
+</style>
